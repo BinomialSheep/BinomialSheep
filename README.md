@@ -23,16 +23,16 @@
 ### [らぷりげーむ](https://lapri-game.com/)
 
 Phaser 3 で作成した HTML ミニゲーム集。
-[La prière](https://twitter.com/Lapriere_info) というアーティストのライブ開催に合わせてファン友だちで制作したファンメイドゲームです。自分はプログラミング担当ですが、イラストやアレンジ曲作成も自分たちで作り込み、推しや他のファンにも喜んでもらえて、非常に楽しかったです。
+[La prière](https://twitter.com/Lapriere_info) というアーティストのライブ開催に合わせて、ファン友だちと制作しました。自分はプログラミング担当ですが、曲をアレンジした BGM やイラストも自分たちで作り込み、推しや他のファンにも喜んでもらえて、非常に楽しかったです。
 （詳細：[2 年目 SE がネット友だちとゲーム制作してめちゃ楽しかった話](https://qiita.com/BinomialSheep/items/69a54c26b3d54214548c)）
 
 ### [ぷよふろーら](https://direct-preview-624986b0e788854d006aa803.monaca.education/)
 
 プログラミング教材[ぷよぷよプログラミング for Monaca Education](https://edu.monaca.io/puyo) を改造したもの。
-背景イラストおよびボイスは VTuber の[イル=フローラ](https://twitter.com/Ilu_Fluor)さんです。[ボイス素材](https://www.dlsite.com/home/work/=/product_id/RJ382764.html/)を購入したノリで作成しました。イラストは[coral さん](https://twitter.com/ralriru)が描いてくれました。
+背景イラストおよびボイスは VTuber の[イル=フローラ](https://twitter.com/Ilu_Fluor)さんです。[ボイス素材](https://www.dlsite.com/home/work/=/product_id/RJ382764.html/)を購入したノリで 1 日で作成しました。イラストは[coral さん](https://twitter.com/ralriru)が描いてくれました。
 BGM は魔王魂さんから借りて編曲（合いの手追加）したものです。
 
-操作は「左右キーで移動、上キーで右回転、下キーで加速」。
+操作は「左右キーで移動、上キーで右回転、下キーで加速」
 
 ### [こんぷりえ～る](https://binomialsheep.github.io/compriere/)
 
