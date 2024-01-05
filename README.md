@@ -34,7 +34,7 @@ Phaser 3 で作成した HTML ミニゲーム集。
 背景イラストおよびボイスは VTuber の[イル=フローラ](https://twitter.com/Ilu_Fluor)さんです。[ボイス素材](https://www.dlsite.com/home/work/=/product_id/RJ382764.html/)を購入したノリで 1 日で作成しました。イラストは[coral さん](https://twitter.com/ralriru)が描いてくれました。
 BGM は魔王魂さんから借りて編曲（合いの手追加）したものです。
 
-操作は「左右キーで移動、上キーで右回転、下キーで加速」
+PC専用で、操作は「左右キーで移動、上キーで右回転、下キーで加速」です。
 
 ### [こんぷりえ～る](https://binomialsheep.github.io/compriere/)
 
@@ -51,6 +51,11 @@ BGM は魔王魂さんから借りて編曲（合いの手追加）したもの�
 ### [Sheep Visualize Graph Beta](https://binomialsheep.github.io/sheep-visualize-graph-beta/)
 
 グラフ理論の典型的な入力形式に対応したグラフ可視化ツール。特に競技プログラミング中の活用を念頭に置いています。
+
+
+### [Rate Racing](https://github.com/BinomialSheep/RateRacing)
+AtCoderのRateでBar Chart Race形式のグラフを出力するPythonプログラムです。
+ライブラリの拡張性があまり高くないので、映えるBar Chart Raceを気軽に作りたい場合はFlourishでポチポチする方が良さそうでした。
 
 ## リンク
 
