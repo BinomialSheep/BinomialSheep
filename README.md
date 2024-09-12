@@ -11,9 +11,13 @@
 ### コンテスト
 
 - AtCoder Algo 青色
-- AtCoder Heur 水色
+- AtCoder Heur 青色
 - SECCON Beginners CTF 2023(108 / 708 位)
 - ISUCON13 (201 / 694位)
+- CodinGame top 0.3%
+  - olymbits(129 / 18147位)
+  - Othello(51 / 525位)
+  - ULTIMATE TIC-TAC-TOE(457 / 9004位)
 
 ### 資格
 
@@ -57,9 +61,22 @@ PC専用で、操作は「左右キーで移動、上キーで右回転、下キ
 AtCoderのRateでBar Chart Race形式のグラフを出力するPythonプログラムです。
 ライブラリの拡張性があまり高くないので、映えるBar Chart Raceを気軽に作りたい場合はFlourishでポチポチする方が良さそうでした。
 
+### [Sheep Random Test](https://github.com/BinomialSheep/sheep-random-test)
+ランテス（軽量プロパティベーステスト）支援スクリプト。
+「計算量は悪いが正確な愚直コード」で「計算量は妥当だが正当性の不明な検証対象コード」の正しさを検証します。
+
+### [Rotable Cube](https://binomialsheep.github.io/rotable-cube/)
+マウス操作で立方体を回転させるだけのシンプルなサイト。
+
+### [同人ダメ絶対音感AI](https://github.com/BinomialSheep/doujin-perfect-pitch)
+音声ファイルを入力すると、どのDLsite声優の声か識別できるシステム。
+
+
+
 ## リンク
 
 - [Twitter](https://twitter.com/BinomialSheep)
 - [Qiita](https://qiita.com/BinomialSheep)
 - [AtCoder](https://atcoder.jp/users/BinomialSheep)
 - [ScrapBox（AtCoder 精進メモ）](https://scrapbox.io/BinomialSheep-ShojinMemo/)
+- [Zenn](https://zenn.dev/binomialsheep)
